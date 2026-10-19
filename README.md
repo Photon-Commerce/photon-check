@@ -30,14 +30,14 @@ Submit any check — printed or handwritten — and receive a structured JSON re
 
 ## Extracted Fields
 
-| Category | Fields |
-|----------|--------|
-| **Payee** | Name, address, city, state, zip, country |
-| **Payer** | Name, address, city, state, zip, country |
-| **MICR** | Check number, routing number, account number |
-| **Bank Details** | Bank name, bank address, SWIFT code, IBAN |
-| **Amounts** | CAR (Courtesy Amount Region — numeric), LAR (Legal Amount Region — written), CAR/LAR match |
-| **Metadata** | Date, memo, currency, duplicate flag, handwritten flag, original document flag, reference number |
+| Category          | Fields |
+|-------------------|--------|
+| **Payee**         | Name, address, city, state, zip, country |
+| **Payer**         | Name, address, city, state, zip, country |
+| **MICR**          | Check number, routing number, account number |
+| **Bank Details**  | Bank name, bank address, SWIFT code, IBAN |
+| **Amounts**       | CAR (Courtesy Amount Region — numeric), LAR (Legal Amount Region — written), CAR/LAR match |
+| **Metadata**      | Date, memo, currency, duplicate flag, handwritten flag, original document flag, reference number |
 
 40+ standardised fields · Printed and handwritten checks supported · 25+ document languages
 
